@@ -7,7 +7,7 @@ with open("clefs.key",'rb') as f:
 
 # ouverture de l'objet à decoder
 with open("WhatsApp Image 2023-09-06 à 23.57.20.jpg",'rb') as f:
-     photo = f.read()
+    photo = f.read()
 
 
 # decryptage de l'objet
